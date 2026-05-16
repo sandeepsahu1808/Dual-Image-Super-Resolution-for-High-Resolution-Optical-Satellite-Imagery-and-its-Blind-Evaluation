@@ -1,4 +1,4 @@
-# 🛰️ SatSR — Dual Image Super Resolution for Satellite Imagery
+# 🛰️ SatSR -Dual Image Super Resolution for High-Resolution Optical Satellite Imagery and its Blind Evaluation
 
 > **Fusing dual low-resolution PROBA-V frames into high-resolution optical imagery — with full-reference and blind quality assessment for ISRO PS-12.**
 
