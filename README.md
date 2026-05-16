@@ -13,9 +13,14 @@ SatSR is an end-to-end super-resolution pipeline for **ISRO Bharatiya Antariksh 
 
 ## 🚀 App Interface
 
-Interactive space-themed dashboard — upload LR1 + LR2, optional HR ground truth, launch inference, and view cockpit-style metric readouts.
+Space-themed Streamlit demo for **ISRO BAH 2025 | PS-12** — upload two LR frames, optional HR ground truth, and run dual-image super-resolution.
+
+**Upload & launch** — select LR Frame 1 and LR Frame 2 (PROBA-V PNGs), optionally add HR, then click **LAUNCH SUPER RESOLUTION**.
 
 ![App Interface — Upload & Launch](assets/app_screenshot_1.png)
+
+**Mission results** — LR1 | LR2 | Super-Resolved (128×128 → 384×384) | Ground Truth HR, with full-reference and blind quality metrics.
+
 ![App Interface — Results & Metrics](assets/app_screenshot_2.png)
 
 ---
