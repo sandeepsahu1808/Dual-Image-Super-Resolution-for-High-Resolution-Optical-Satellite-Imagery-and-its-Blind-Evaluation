@@ -17,12 +17,11 @@ Space-themed Streamlit demo for **ISRO BAH 2025 | PS-12** — upload two LR fram
 
 **Upload & launch** — select LR Frame 1 and LR Frame 2 (PROBA-V PNGs), optionally add HR, then click **LAUNCH SUPER RESOLUTION**.
 
-![App Interface — Upload & Launch](assets/app_screenshot_1.png)
+![App Interface — Results & Metrics](assets/app_screenshot_2.png)
 
 **Mission results** — LR1 | LR2 | Super-Resolved (128×128 → 384×384) | Ground Truth HR, with full-reference and blind quality metrics.
 
-![App Interface — Results & Metrics](assets/app_screenshot_2.png)
-
+![App Interface — Upload & Launch](assets/app_screenshot_1.png)
 ---
 
 ## 📊 Sample Results
